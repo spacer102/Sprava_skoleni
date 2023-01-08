@@ -1,0 +1,7 @@
+KOD;MENO;PRIEZVISKO;PRACOVNA_POZICIA;LEKTOR
+ZAM_001;Pavol;Novák;Programator;ANO
+ZAM_002;Jana;Pokorná;Tester;ANO
+ZAM_003;Lucia;Adamová;Účetní;ANO
+ZAM_004;Peter;Prechádzka;Programátor;NIE
+ZAM_005;Karol;Jebal;Analytik;NIE
+ZAM_006;Petra;Švachtičová;Manažér;NIE

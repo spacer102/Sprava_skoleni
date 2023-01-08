@@ -1,0 +1,1 @@
+# Sprava_skoleni
